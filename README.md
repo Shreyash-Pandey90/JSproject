@@ -10,7 +10,8 @@ Explore a variety of JavaScript projects covering a wide range of concepts, for 
 
 ## Projects Included 🛠️
 
-- **Project 1:** Rock-Paper-Scissor   [Live Demo](#) <!-- Replace '#' with your live demo link -->
+- **Project 1:** Rock-Paper-Scissor   [Live Demo](https://playepsc.netlify.app/) <!-- Replace '#' with your live demo link -->
+- **Project 2:** Etch-A-Sketch        [Live Demo](https://sketch90.netlify.app/) 
     
 - **More Projects Coming Soon!**
 
